@@ -1,6 +1,8 @@
-ck# GreenTrust Backend
+![Kenyan Farmers - Dark Theme](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80#gh-dark-mode-only)
 
-The GreenTrust Backend powers an agricultural marketplace application, connecting farmers and buyers. It provides robust APIs for user authentication, crop management, marketplace listings, inquiries, and notifications.
+# GreenTrust Backend
+
+The GreenTrust Backend powers an agricultural marketplace application, connecting farmers and buyers. It provides robust APIs for user authentication, crop management, marketplace listings, inquiries, and more.
 
 ## Table of Contents
 
@@ -68,7 +70,6 @@ Before you begin, ensure you have the following installed:
    git clone https://github.com/your-username/Green-trust.git
    cd Green-trust/backened
    ```
-
 2. **Install dependencies:**
    ```bash
    npm install
@@ -100,7 +101,6 @@ SMS_SENDER_ID="your_sms_sender_id"
    ```bash
    npm run migrate
    ```
-
 2. **Seed the database (optional, for initial data):**
    ```bash
    npm run seed
@@ -112,7 +112,6 @@ SMS_SENDER_ID="your_sms_sender_id"
   ```bash
   npm run dev
   ```
-
 - **Production Mode:**
   ```bash
   npm start
